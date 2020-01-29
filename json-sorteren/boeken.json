@@ -1,0 +1,153 @@
+[
+   {
+      "naam": "MSI GE63VR 7RF Raider",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/91JkGFW5Q5L._SL1500_.jpg",
+      "merk": ["MSI"],
+      "processor": "Core i7-7700HQ (2.8-3.8 GHz)",
+      "graphiccard": "NVIDEA GeForce GTX 1070 8gb",
+      "ram": "16GB DDR4 2400MHz",
+      "opslag": "512GB SSD, 1TB HDD",
+      "prijs": 1999.99
+   },
+   {
+      "naam": "ASUS ROG Strix HERO G531GV",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/61ggt9VAFuL._SL1000_.jpg",
+      "merk": ["ROG, ASUS"],
+      "processor": "Core i7-9750H (2.6 GHz)",
+      "opslag": "512GB SSD, 1TB SSHD",
+      "graphiccard": "NVIDEA GeForce RTX 2060 6gb",
+      "ram": "16GB DDR4 2400MHz",
+      "prijs": 1809.99
+   },
+   {
+      "naam": "Dell G5 5590",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/81bRuoTwS6L._SL1500_.jpg",
+      "merk": ["Dell"],
+      "processor": "Core i5-9300H (2.5GHz)",
+      "opslag": "256GB SSD, 1TB HDD",
+      "graphiccard": "NVIDEA GeForce GTX 1650 4gb",
+      "ram": "8GB DDR3 1700MHz",
+      "prijs": 949.99
+   },
+   {
+      "naam": "Acer Predator Helios 300 PH315-52",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/81UuVfQq3EL._SL1500_.jpg",
+      "merk": ["Predator, Acer"],
+      "processor": "Core i5-9300H (2.5Ghz)",
+      "opslag": "256GB SSD, 1TB HDD",
+      "graphiccard": "NVIDEA GeForce GTX 1660TI 6gb",
+      "ram": "8GB DDR4 2400MHz",
+      "prijs": 1200
+   },
+   {
+      "naam": "Dell G3 15 3000",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/81IlnRs4MnL._SL1500_.jpg",
+      "merk": ["Dell"],
+      "processor": "Core i7-9750H (2.6GHz)",
+      "graphiccard": "NVIDEA GeForce GTX 1660TI 6gb",
+      "ram": "8GB DDR4 2400MHz",
+      "opslag": "256GB SSD, 1TB HDD",
+      "prijs": 1099.99
+   },
+   {
+      "naam": "HP Pavilion Power 15-dk0020na",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/81Q1DMglekL._SL1500_.jpg",
+      "merk": ["HP"],
+      "processor": "Core i5-9300H (2.6GHz)",
+      "graphiccard": "NVIDEA GeForce GTX 1050 3gb",
+      "ram": "8GB DDR4 2100MHz",
+      "opslag": "512GB SSD",
+      "prijs": 649.99
+   },
+   {
+      "naam": "ASUS TUF FX505DY",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/61OZ4aemahL._SL1000_.jpg",
+      "merk": ["TUF, ASUS "],
+      "processor": "AMD Ryzen-5 3550H (2.1GHz)",
+      "graphiccard": "AMD Radeon RX560X 4GB",
+      "ram": "8GB DDR4 2100MHz",
+      "opslag": "1TB HDD",
+      "prijs": 539.99
+   },
+   {
+      "naam": "Apple MacBook Air",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/51p9iVs%2BbVL._SL1024_.jpg",
+      "merk": ["Apple"],
+      "processor": "Core i5-8450(1.6GHz)",
+      "graphiccard": "Intergrated Graphics",
+      "ram": "16GB DDR4 2600MHz",
+      "opslag": "128GB SSD",
+      "prijs": 985.00
+   },
+   {
+      "naam": "Apple MacBook Pro",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/71L2iBSyyOL._SL1500_.jpg",
+      "merk": ["Apple"],
+      "processor": "Core i7-8700k (4.5GHz)",
+      "graphiccard": "AMD Radeon Pro 5300M 8GB",
+      "ram": "16GB DDR4 2777MHz",
+      "opslag": "512GB SSD",
+      "prijs": 2178.19
+   },
+   {
+      "naam": "Apple MacBook Pro",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/71%2Bl4qh-8SL._SL1500_.jpg",
+      "merk": ["Apple"],
+      "processor": "Core i5-7500k (3.5GHz)",
+      "graphiccard": "Intergrated Graphics",
+      "ram": "16GB DDR4 2777MHz",
+      "opslag": "126GB SSD",
+      "prijs": 1212.00
+   },
+   {
+      "naam": "HP Chromebook 14-db0003na",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/71SriwgxJRL._SL1500_.jpg",
+      "merk": ["Chormebook, HP"],
+      "processor": "AMD Dual Core A4 (2.2GHz)",
+      "graphiccard": "Intergrated Graphics",
+      "ram": "4GB DDR3 1600MHz",
+      "opslag": "64GB HDD",
+      "prijs": 229.99
+   },
+   {
+      "naam": "MSI P65 Creator-1084",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/51S1Dz%2BuUbL._SL1000_.jpg",
+      "merk": ["MSI"],
+      "processor": "Core i7-8750H (4.5GHz)",
+      "graphiccard": "NVIDEA GeForce RTX 2060 8GB",
+      "ram": "32GB DDR4 3200MHz",
+      "opslag": "256GB SSD, 1TB HDD",
+      "prijs": 1780.00
+   },
+   {
+      "naam": "Acer Spin 3 Convertible Laptop",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/81H9y1pPW6L._SL1500_.jpg",
+      "merk": ["Acer"],
+      "processor": "Core i7-8565U (3.6GHz)",
+      "graphiccard": "Intergrated Graphics",
+      "ram": "16GB DDR4 2400MHz",
+      "opslag": "512GB SSD",
+      "prijs": 749.99
+   },
+   {
+      "naam": "Acer Spin 5 ",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/61BARbJ2vwL._SL1500_.jpg",
+      "merk": ["Acer"],
+      "processor": "Core i7-8550U (4.2GHz)",
+      "graphiccard": "Intergrated Graphics",
+      "ram": "8GB DDR4 2666MHz",
+      "opslag": "256GB SSD",
+      "prijs": 719.95
+   },
+   {
+      "naam": "Notebook 8 Pen",
+      "cover": "https://image-us.samsung.com/SamsungUS/home/computing/windows-laptops/pdp/np950sbe-x01us-9nvidia/gallery/1-NT950SBE_023_Front-Open-With-S-Pen_Blue.jpg?$default-jpg$",
+      "merk": ["Samsung"],
+      "processor": "Core i7-8565U (4.1GHz)",
+      "graphiccard": "NVIDEA GeForce MX150 2GB",
+      "ram": "8GB DDR4 18000MHz",
+      "opslag": "2526GB SSD",
+      "prijs": 345
+   }
+
+]
